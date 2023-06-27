@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "255e276e-3ec9-4765-9b46-57108c5a1682",
+		"name": "Alkemy-Lab-Icons",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28124537"
+	},
+	"item": [
+		{
+			"name": "icons",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
